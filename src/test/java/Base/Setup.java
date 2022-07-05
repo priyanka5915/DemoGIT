@@ -63,7 +63,11 @@ public class Setup
    public void run()
    {
 	   System.out.println("im inside page");
+
 	   System.out.println("Add me into GIT");
+
+	   System.out.println("Git comment");
+
    }
 
    
